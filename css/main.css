@@ -5,7 +5,7 @@ body {
 #header-background {
     width: 100%;
     height: auto;
-    background: url('../images/u-m_logo-horizontal-hex.png');
+    background: url('./u-m_logo-horizontal-hex.png');
 }
 
 nav ul, footer ul {
