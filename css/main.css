@@ -2,10 +2,13 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-#header-background {
-    width: 100%;
-    height: auto;
+.header-background {
+    width: 250px;
+    height: 250px;
     background-image: url('https://pushyamig.github.io/images/u-m_logo-horizontal-hex.png');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: 50%;
 }
 
 nav ul, footer ul {
