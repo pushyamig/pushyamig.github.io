@@ -1,0 +1,3 @@
+[submodule "trail"]
+	path = trail
+	url = https://github.com/pushyamig/git-submodules-test
